@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+  <string id="30000">Microsoft Channel 9</string>
+
+  <!-- 
+   * Settings labels 
+   -->
+  <string id="30100">Version</string>
+  <string id="30101">Author</string>
+  <string id="30102">Website</string>
+    
+  <string id="30200">Video player</string>
+  <string id="30201">Auto</string>
+  <string id="30202">DVDPlayer</string>
+  <string id="30203">MPlayer</string>
+      
+  <string id="30300">Video format</string>
+  <string id="30301">Medium Quality WMV</string>
+  <string id="30302">MP4</string>
+  <string id="30303">High Quality WMV</string>
+    
+  <!--
+   * Texts
+   -->
+  <string id="30401">All</string>
+  <string id="30402">Tags</string>
+  <string id="30403">Shows</string>
+  <string id="30404">Series</string>
+
+  <string id="30503">Next page</string>  
+  <string id="30504">Getting video location...</string>
+  <string id="30505">No video stream found</string>
+
+</strings>

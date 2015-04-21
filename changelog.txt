@@ -1,0 +1,2 @@
+v1.0 (Sunday, 22 May 2011):
+ - initial release;
